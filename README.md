@@ -49,7 +49,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/sara-1515/weather-app.git
 cd weather-app
 Add Your API Key:
 
@@ -59,7 +59,7 @@ Replace 'your_api_key_here' with your actual OpenWeatherMap API key:
 
 javascript
 Copy
-const apiKey = 'your_api_key_here';
+const apiKey = '';
 Run the App Locally:
 
 Open the index.html file in your browser.
