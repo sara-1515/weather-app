@@ -126,14 +126,6 @@ Open a Pull Request
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🙏 Acknowledgments
-OpenWeatherMap for providing the API.
-Weather Icons for the beautiful weather icons.
-🌐 Live Demo
-🔗 Weather App Live Demo
 
-✨ Key Improvements:
-Well-structured sections for easy reading.
-Properly formatted code snippets with syntax highlighting.
-Project structure visualization for clarity.
-Easy-to-follow installation steps.
+
+
